@@ -1,8 +1,8 @@
 # Daily Coding Problem Solutions
 
-This repository consists of all the Daily [Coding Problem](https://www.dailycodingproblem.com/) questions I solved using Python3. The repository will be updated every time I solve new questions. I might even solve questions in other languages in the future but currently I am sticking with Python.
+This repository consists of all the  [Daily Coding Problem](https://www.dailycodingproblem.com/) questions gathered from interviews of top companies I solved using Python3. The repository will be updated every time I solve new questions. I might even solve questions in other languages in the future but currently I am sticking with Python.
 
-Daily Coding Problem is a platform built by Tech Lead where a new question is mailed to the subscriber every day at 9:00AM PST.
+Daily Coding Problem is a platform built by [Tech Lead](https://www.youtube.com/c/TechLead/)) where a new question from job interviews of fortune 500 companies is mailed to the subscriber every day at 9:00AM PST.
 
 ## Get in touch with me on:
 
@@ -37,6 +37,21 @@ Daily Coding Problem is a platform built by Tech Lead where a new question is ma
 
 <br/>
 
-_Some solutions may not be efficient though it works._
+## Reference Table
 
-_Thank you, hope this helped you in one way or the other_
+<br/>
+
+*Click on the Problem Number to get redirected to the txt version of the Question mailed by [Daily Coding Problem](https://www.dailycodingproblem.com/)*
+
+*Click on the Programming Language name to get redirected to solution file in this repository*
+
+| **Question**                                                                                   | **Solution**                                                                               | **Source**                                    | **Date**   |
+| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | --------------------------------------------- | ---------- |
+| [Problem 1](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_1/question.txt) | [Python](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_1/solution.py) | [Google Interview](https://www.google.com/)   | 10/02/2022 |
+| [Problem 2](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_2/question.txt) | [Python](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_2/solution.py) | [Uber Interview](https://www.uber.com/in/en/) | 11/02/2022 |
+
+<!-- table of solutions -->
+
+*Some solutions may not be efficient though it works.*
+
+*Thank you, hope this helped you in one way or the othe*r
