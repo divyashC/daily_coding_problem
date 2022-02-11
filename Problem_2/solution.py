@@ -3,7 +3,10 @@
 # Date 11 Feb 2021
 # Time 8:20 AM
 
-arr = [1, 2, 3, 4, 5]
+# input -> [1, 2, 3, 4, 5]
+# output -> [120, 60, 40, 30, 24]
+
+arr = input()
 product = []
 
 for i in range(len(arr)):
