@@ -1,8 +1,10 @@
 # Daily Coding Problem Solutions
 
-This repository consists of all the  [Daily Coding Problem](https://www.dailycodingproblem.com/) questions gathered from interviews of top companies I solved using Python3. The repository will be updated every time I solve new questions. I might even solve questions in other languages in the future but currently I am sticking with Python.
+This repository consists of all the [Daily Coding Problem](https://www.dailycodingproblem.com/) questions gathered from interviews of top companies I solved using Python3. The repository will be updated every time I solve new questions. I might even solve questions in other languages in the future but currently I am sticking with Python.
 
-Daily Coding Problem is a platform built by [Tech Lead](https://www.youtube.com/c/TechLead/)) where a new question from job interviews of fortune 500 companies is mailed to the subscriber every day at 9:00AM PST.
+Daily Coding Problem is a platform built by [Tech Lead](https://www.youtube.com/c/TechLead/) where a new question from job interviews of fortune 500 companies is mailed to the subscriber every day at 9:00AM PST.
+
+<br/>
 
 ## Get in touch with me on:
 
@@ -41,9 +43,9 @@ Daily Coding Problem is a platform built by [Tech Lead](https://www.youtube.com/
 
 <br/>
 
-*Click on the Problem Number to get redirected to the txt version of the Question mailed by [Daily Coding Problem](https://www.dailycodingproblem.com/)*
+_Click on the Problem Number to get redirected to the txt version of the Question mailed by [Daily Coding Problem](https://www.dailycodingproblem.com/)_
 
-*Click on the Programming Language name to get redirected to solution file in this repository*
+_Click on the Programming Language name to get redirected to solution file in this repository_
 
 | **Question**                                                                                   | **Solution**                                                                               | **Source**                                    | **Date**   |
 | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | --------------------------------------------- | ---------- |
@@ -52,6 +54,6 @@ Daily Coding Problem is a platform built by [Tech Lead](https://www.youtube.com/
 
 <!-- table of solutions -->
 
-*Some solutions may not be efficient though it works.*
+_Some solutions may not be efficient though it works._
 
 *Thank you, hope this helped you in one way or the othe*r
