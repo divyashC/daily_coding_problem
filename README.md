@@ -51,6 +51,7 @@ _Click on the Programming Language name to get redirected to solution file in th
 | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | --------------------------------------------- | ---------- |
 | [Problem 1](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_1/question.txt) | [Python](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_1/solution.py) | [Google Interview](https://www.google.com/)   | 10/02/2022 |
 | [Problem 2](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_2/question.txt) | [Python](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_2/solution.py) | [Uber Interview](https://www.uber.com/in/en/) | 11/02/2022 |
+| [Problem 3](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_3/question.txt) | [Python](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_3/solution.py) | [Google Interview](https://www.google.com/)   | 12/02/2022 |
 
 <!-- table of solutions -->
 
