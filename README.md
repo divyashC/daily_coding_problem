@@ -47,12 +47,13 @@ _Click on the Problem Number to get redirected to the txt version of the Questio
 
 _Click on the Programming Language name to get redirected to solution file in this repository_
 
-| **Question**                                                                                   | **Solution**                                                                               | **Source**                                    | **Date**   |
-| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | --------------------------------------------- | ---------- |
-| [Problem 1](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_1/question.txt) | [Python](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_1/solution.py) | [Google Interview](https://www.google.com/)   | 10/02/2022 |
-| [Problem 2](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_2/question.txt) | [Python](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_2/solution.py) | [Uber Interview](https://www.uber.com/in/en/) | 11/02/2022 |
-| [Problem 3](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_3/question.txt) | [Python](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_3/solution.py) | [Google Interview](https://www.google.com/)   | 12/02/2022 |
-| [Problem 4](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_4/question.txt) | [Python](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_4/solution.py) | [Stripe Interview](https://stripe.com/)       | 13/02/2022 |
+| **Question**                                                                                   | **Solution**                                                                               | **Source**                                           | **Category** | **Date**   |
+| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------------- | ------------ | ---------- |
+| [Problem 1](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_1/question.txt) | [Python](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_1/solution.py) | [Google Interview](https://www.google.com/)          | Easy         | 10/02/2022 |
+| [Problem 2](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_2/question.txt) | [Python](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_2/solution.py) | [Uber Interview](https://www.uber.com/in/en/)        | Hard         | 11/02/2022 |
+| [Problem 3](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_3/question.txt) | [Python](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_3/solution.py) | [Google Interview](https://www.google.com/)          | Medium       | 12/02/2022 |
+| [Problem 4](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_4/question.txt) | [Python](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_4/solution.py) | [Stripe Interview](https://stripe.com/)              | Hard         | 13/02/2022 |
+| [Problem 5](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_5/question.txt) | [Python](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_5/solution.py) | [Jane Street Interview](https://www.janestreet.com/) | Medium       | 14/02/2022 |
 
 <!-- table of solutions -->
 
