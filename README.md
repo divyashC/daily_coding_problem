@@ -54,8 +54,7 @@ _Click on the Programming Language name to get redirected to solution file in th
 | [Problem 3](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_3/question.txt) | [Python](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_3/solution.py) | [Google Interview](https://www.google.com/)          | Medium       | 12/02/2022 |
 | [Problem 4](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_4/question.txt) | [Python](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_4/solution.py) | [Stripe Interview](https://stripe.com/)              | Hard         | 13/02/2022 |
 | [Problem 5](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_5/question.txt) | [Python](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_5/solution.py) | [Jane Street Interview](https://www.janestreet.com/) | Medium       | 14/02/2022 |
-
-<!-- table of solutions -->
+| [Problem 6](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_6/question.txt) | [Python](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_6/solution.py) | [Google Interview](https://www.google.com/)          | Hard         | 15/02/2022 |
 
 _Some solutions may not be efficient though it works._
 
