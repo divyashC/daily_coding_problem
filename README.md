@@ -57,7 +57,7 @@ _Click on the Programming Language name to get redirected to solution file in th
 | [Problem 6](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_6/question.txt) | [Python](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_6/solution.py)              | [Google Interview](https://www.google.com/)          | Hard         | 15/02/2022 |
 | [Problem 7](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_7/question.txt) | [Python](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_7/solution.py)              | [Facebook Interview](https://www.facebook.com/)      | Medium       | 16/02/2022 |
 | [Problem 8](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_8/question.txt) | [Python](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_8/solution.py)              | [Google Interview](https://www.google.com/)          | Easy         | 17/02/2022 |
-| [Problem 9](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_9/question.txt) | [Python (Incomplete)](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_8/solution.py) | [Airbnb Interview](https://www.airbnb.com/)          | Hard         | 18/02/2022 |
+| [Problem 9](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_9/question.txt) | [Python (Incomplete)](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_9/solution.py) | [Airbnb Interview](https://www.airbnb.com/)          | Hard         | 18/02/2022 |
 
 _Some solutions may not be efficient though it works._
 
