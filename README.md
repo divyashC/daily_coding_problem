@@ -61,6 +61,7 @@ _Click on the Programming Language name to get redirected to solution file in th
 | [Problem 10](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_10/question.txt) | [Python](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_10/solution.py) | [Apple Interview](https://www.apple.com/)            | Medium       | 19/02/2022 |
 | [Problem 11](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_11/question.txt) | [Python](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_11/solution.py) | [Twitter Interview](https://www.twitter.com/)        | Medium       | 20/02/2022 |
 | [Problem 12](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_12/question.txt) | [Python](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_12/solution.py) | [Amazon Interview](https://www.amazon.com/)          | Hard         | 21/02/2022 |
+| [Problem 13](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_13/question.txt) | [Python](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_13/solution.py) | [Amazon Interview](https://www.amazon.com/)          | Hard         | 22/02/2022 |
 
 _Some solutions may not be efficient though it works._
 
