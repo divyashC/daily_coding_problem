@@ -1,6 +1,6 @@
 # Day 1
 # Problem 1
-# Date 10 Feb 2021
+# Date 10 Feb 2022
 # Time 12:12 AM
 
 # input -> [10, 15, 3, 7]

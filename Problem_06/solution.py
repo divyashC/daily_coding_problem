@@ -1,6 +1,6 @@
 # Day 6
 # Problem 6
-# Date 15 Feb 2021
+# Date 15 Feb 2022
 # Time 5:45 PM
 
 # implement XOR linked list

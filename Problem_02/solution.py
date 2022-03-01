@@ -1,6 +1,6 @@
 # Day 2
 # Problem 2
-# Date 11 Feb 2021
+# Date 11 Feb 2022
 # Time 8:20 AM
 
 # input -> [1, 2, 3, 4, 5]

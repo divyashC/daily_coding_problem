@@ -1,6 +1,6 @@
 # Day 12
 # Problem 12
-# Date 21 Feb 2021
+# Date 21 Feb 2022
 # Time 7:05 PM
 
 def get_steps(n, step_sizes):

@@ -1,6 +1,6 @@
 # Day 9
 # Problem 9
-# Date 21 Feb 2021
+# Date 21 Feb 2022
 # Time 6:25 PM
 
 # input -> [2, 4, 6, 2, 5]
