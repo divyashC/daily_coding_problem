@@ -68,7 +68,8 @@ _Click on the Programming Language name to get redirected to solution file in th
 | [Problem 17](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_17/question.txt) | [Python (Incomplete)](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_17/solution.py) | [Google Interview](https://www.google.com/)     | Hard         | 26/02/2022 |
 | [Problem 18](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_18/question.txt) | [Python (Incomplete)](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_18/solution.py) | [Google Interview](https://www.google.com/)     | Hard         | 27/02/2022 |
 | [Problem 19](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_19/question.txt) | [Python (Incomplete)](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_19/solution.py) | [Facebook Interview](https://www.facebook.com/) | Medium       | 28/02/2022 |
-| [Problem 20](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_20/question.txt) | [Python (Incomplete)](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_20/solution.py) | [Google Interview](https://www.google.com/)     | Easy         | 27/02/2022 |
+| [Problem 20](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_20/question.txt) | [Python (Incomplete)](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_20/solution.py) | [Google Interview](https://www.google.com/)     | Easy         | 01/03/2022 |
+| [Problem 21](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_21/question.txt) | [Python (Incomplete)](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_21/solution.py) | [Snapchat Interview](https://www.snapchat.com/) | Easy         | 02/03/2022 |
 
 _Some solutions may not be efficient though it works._
 
