@@ -76,6 +76,7 @@ _Click on the Programming Language name to get redirected to solution file in th
 | [Problem 25](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_25/question.txt) | [Python (Incomplete)](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_25/solution.py) | [Facebook Interview](https://www.facebook.com/)   | Hard         | 06/03/2022 |
 | [Problem 26](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_26/question.txt) | [Python (Incomplete)](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_26/solution.py) | [Google Interview](https://www.google.com/)       | Medium       | 07/03/2022 |
 | [Problem 27](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_27/question.txt) | [Python (Incomplete)](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_27/solution.py) | [Facebook Interview](https://www.facebook.com/)   | Easy         | 08/03/2022 |
+| [Problem 28](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_28/question.txt) | [Python (Incomplete)](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_28/solution.py) | [Palantir Interview](https://www.palantir.com/)   | Medium       | 09/03/2022 |
 
 _Some solutions may not be efficient though it works._
 

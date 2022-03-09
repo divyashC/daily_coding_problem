@@ -1,5 +1,3 @@
-
- Daily Coding Problem
 Good morning! Here's your coding interview problem for today.
 
 This problem was asked by Google.
@@ -10,8 +8,11 @@ Given this matrix, a start coordinate, and an end coordinate, return the minimum
 
 For example, given the following board:
 
+```javascript
 [[f, f, f, f],
 [t, t, f, t],
 [f, f, f, f],
 [f, f, f, f]]
-and start = (3, 0) (bottom left) and end = (0, 0) (top left), the minimum number of steps required to reach the end is 7, since we would need to go through (1, 2) because there is a wall everywhere else on the second row.
+```
+
+and start = `(3, 0)` (bottom left) and end = `(0, 0)` (top left), the minimum number of steps required to reach the end is 7, since we would need to go through `(1, 2)` because there is a wall everywhere else on the second row.
