@@ -79,6 +79,7 @@ _Click on the Programming Language name to get redirected to solution file in th
 | [Problem 28](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_28/question.md) | [Python (Incomplete)](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_28/solution.py) | [Palantir Interview](https://www.palantir.com/)   | Medium       | 09/03/2022 |
 | [Problem 29](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_29/question.md) | [Python (Incomplete)](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_29/solution.py) | [Amazon Interview](https://www.amazon.com/)       | Easy         | 10/03/2022 |
 | [Problem 30](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_30/question.md) | [Python (Incomplete)](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_30/solution.py) | [Facebook Interview](https://www.facebook.com/)   | Medium       | 11/03/2022 |
+| [Problem 31](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_31/question.md) | [Python (Incomplete)](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_31/solution.py) | [Google Interview](https://www.google.com/)       | Easy         | 12/03/2022 |
 
 _Some solutions may not be efficient though it works._
 
