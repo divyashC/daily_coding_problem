@@ -86,6 +86,7 @@ _Click on the Programming Language name to get redirected to solution file in th
 | [Problem 35](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_35/question.md) | [Python (Incomplete)](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_35/solution.py) | [Google Interview](https://www.google.com/)       | Hard         | 16/03/2022 |
 | [Problem 36](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_36/question.md) | [Python (Incomplete)](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_36/solution.py) | [Dropbox Interview](https://www.dropbox.com/)     | Medium       | 17/03/2022 |
 | [Problem 37](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_37/question.md) | [Python (Incomplete)](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_37/solution.py) | [Google Interview](https://www.google.com/)       | Easy         | 18/03/2022 |
+| [Problem 38](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_38/question.md) | [Python (Incomplete)](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_38/solution.py) | [Microsoft Interview](https://www.microsoft.com/) | Hard         | 19/03/2022 |
 
 _Some solutions may not be efficient though it works._
 
