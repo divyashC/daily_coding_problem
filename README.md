@@ -90,6 +90,7 @@ _Click on the Programming Language name to get redirected to solution file in th
 | [Problem 39](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_39/question.md) | [Python (Incomplete)](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_39/solution.py) | [Dropbox Interview](https://www.dropbox.com/)     | Medium       | 20/03/2022 |
 | [Problem 40](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_40/question.md) | [Python (Incomplete)](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_40/solution.py) | [Google Interview](https://www.google.com/)       | Hard         | 21/03/2022 |
 | [Problem 41](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_41/question.md) | [Python (Incomplete)](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_41/solution.py) | [Facebook Interview](https://www.facebook.com/)   | Medium       | 22/03/2022 |
+| [Problem 42](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_42/question.md) | [Python (Incomplete)](https://github.com/divyashC/daily_coding_problem/blob/main/Problem_42/solution.py) | [Google Interview](https://www.google.com/)       | Hard         | 23/03/2022 |
 
 _Some solutions may not be efficient though it works._
 
